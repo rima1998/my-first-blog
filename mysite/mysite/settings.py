@@ -25,7 +25,7 @@ SECRET_KEY = '&#uaguu1i&e2s#g9*n_pt5#e7lvm4sv4!69)d#1z8!fi)_2cc7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'rima.pythonanywhere.com']
 
 
 
